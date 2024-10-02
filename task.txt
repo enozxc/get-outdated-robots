@@ -1,0 +1,5 @@
+The function get_outdated_robots takes a list of robots, robots, 
+and returns a list of indices of those robots whose core_version is less than new_version.
+
+You've done this task before, but now try to solve it in a single line using list comprehension. 
+The function should contain only the return statement.
